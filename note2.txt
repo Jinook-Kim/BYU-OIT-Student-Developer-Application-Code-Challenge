@@ -1,0 +1,24 @@
+entire program is in while loop:
+ask who wants to goes first
+if == computer:
+
+user turn
+
+check if game is over
+if one column of the winList filled with "X": user win
+elif one filled with "O": computer win
+elif winList is full of X or O : draw
+
+computer turn
+if two are filled, play on the remaining
+
+if not played:
+if two are "X", play on the remaining
+
+if not played:
+if only one "O" in winList and no "X" , play on one of the remaining spaces
+
+if not played:
+play randomly
+
+check if game is over
